@@ -1,4 +1,7 @@
 # awesome-first-world
 Stuff I want to keep and share with folks
-Also, a place where I work on projects to share later (edited)
+
+Also, a place where I work on projects to share later.
+
+I love learning something new every day!
 
